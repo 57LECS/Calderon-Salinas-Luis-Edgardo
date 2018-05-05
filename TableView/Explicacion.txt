@@ -1,0 +1,1 @@
+Isra no se que pasa que cuando quiero agregar la carpeta del tableView no me deja te mando la ss de cuando hago el add y luego el commit
