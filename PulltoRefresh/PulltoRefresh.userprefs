@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5DA112A4-B149-49C7-ABDC-BD8517A9AB97}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PulltoRefresh/Controllers/CitiesTableViewController.cs">
+    <Files>
+      <File FileName="PulltoRefresh/AppDelegate.cs" Line="13" Column="39" />
+      <File FileName="PulltoRefresh/Models/CitiesManager.cs" Line="67" Column="21" />
+      <File FileName="PulltoRefresh/ViewController.cs" Line="14" Column="9" />
+      <File FileName="PulltoRefresh/Controllers/CitiesTableViewController.cs" Line="56" Column="55" />
+      <File FileName="PulltoRefresh/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PulltoRefresh PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B4CAAB65-04F8-4C59-AB3D-7FCB43826F96">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PulltoRefresh>
+  <MultiItemStartupConfigurations />
+</Properties>

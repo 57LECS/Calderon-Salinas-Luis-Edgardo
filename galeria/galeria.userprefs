@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B2E9D247-5265-4857-852E-C20D91439290}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="galeria/ViewController.cs">
+    <Files>
+      <File FileName="galeria/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="galeria/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="galeria/ViewController.cs" Line="43" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.galeria PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.181F8E37-CA30-4072-B282-003174C7489E" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.galeria>
+  <MultiItemStartupConfigurations />
+</Properties>

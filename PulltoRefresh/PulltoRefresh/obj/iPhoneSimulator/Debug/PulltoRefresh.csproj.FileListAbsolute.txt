@@ -1,0 +1,12 @@
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/bin/iPhoneSimulator/Debug/PulltoRefresh.exe
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/bin/iPhoneSimulator/Debug/PulltoRefresh.pdb
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/PulltoRefresh.csprojResolveAssemblyReference.cache
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/PulltoRefresh.csproj.CoreCompileInputs.cache
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/PulltoRefresh.exe
+/Users/issc611/Projects/PulltoRefresh/PulltoRefresh/obj/iPhoneSimulator/Debug/PulltoRefresh.pdb

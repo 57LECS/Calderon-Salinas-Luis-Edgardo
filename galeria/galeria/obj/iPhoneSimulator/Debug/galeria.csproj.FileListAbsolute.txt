@@ -1,0 +1,9 @@
+/Users/issc611/Projects/galeria/galeria/bin/iPhoneSimulator/Debug/galeria.exe
+/Users/issc611/Projects/galeria/galeria/bin/iPhoneSimulator/Debug/galeria.pdb
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/galeria.csproj.CoreCompileInputs.cache
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/galeria.exe
+/Users/issc611/Projects/galeria/galeria/obj/iPhoneSimulator/Debug/galeria.pdb
