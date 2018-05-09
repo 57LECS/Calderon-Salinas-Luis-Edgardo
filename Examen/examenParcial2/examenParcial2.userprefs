@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2D5C7AFC-E32E-475D-B408-F3211D43B393}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="examenParcial2/Models/linq2Twitter.cs">
+    <Files>
+      <File FileName="examenParcial2/Controllers/TableViewController.cs" Line="116" Column="67" />
+      <File FileName="examenParcial2/Models/linq2Twitter.cs" Line="92" Column="49" />
+      <File FileName="examenParcial2/Views/TweetTableViewCell.cs" Line="17" Column="9" />
+      <File FileName="examenParcial2/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/issc611/Downloads/examenParcial2/examenParcial2/Models/linq2Twitter.cs" relfile="examenParcial2/Models/linq2Twitter.cs" line="117" column="1" />
+      <Breakpoint file="/Users/issc611/Downloads/examenParcial2/examenParcial2/Models/linq2Twitter.cs" relfile="examenParcial2/Models/linq2Twitter.cs" line="119" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

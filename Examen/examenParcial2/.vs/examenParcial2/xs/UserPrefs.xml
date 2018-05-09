@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2D5C7AFC-E32E-475D-B408-F3211D43B393}|Default">
+  <MonoDevelop.Ide.ItemProperties.examenParcial2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1DEA220A-A72D-457C-B42D-610B4EF2B7DB">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.examenParcial2>
+  <MonoDevelop.Ide.Workbench ActiveDocument="examenParcial2/Controllers/TableViewController.cs">
+    <Files>
+      <File FileName="examenParcial2/AppDelegate.cs" Line="4" Column="21" />
+      <File FileName="examenParcial2/ViewController.cs" Line="34" Column="1" />
+      <File FileName="examenParcial2/Controllers/TableViewController.cs" Line="35" Column="1" />
+      <File FileName="examenParcial2/Views/TweetTableViewCell.cs" Line="22" Column="4" />
+      <File FileName="examenParcial2/TweetTable.cs" Line="1" Column="1" />
+      <File FileName="examenParcial2/Models/linq2Twitter.cs" Line="104" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Models/linq2Twitter.cs" relfile="examenParcial2/Models/linq2Twitter.cs" line="77" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Models/linq2Twitter.cs" relfile="examenParcial2/Models/linq2Twitter.cs" line="91" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Models/linq2Twitter.cs" relfile="examenParcial2/Models/linq2Twitter.cs" line="104" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="99" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="98" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="35" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="34" column="54" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="105" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="80" column="1" />
+      <Breakpoint file="/Users/dherrejon/Downloads/examenParcial2/examenParcial2/Controllers/TableViewController.cs" relfile="examenParcial2/Controllers/TableViewController.cs" line="104" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
